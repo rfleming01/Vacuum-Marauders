@@ -1,6 +1,6 @@
 # Vacuum Marauders
 **Version: 1.0**
-* movement via the arrow keys
+* Movement via the arrow keys
 * movement restricted by the screen border
 * Reset with ESC
 * pressing space fires a forward moving missile
