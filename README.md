@@ -11,3 +11,7 @@
   
 [Go here to play the working game](https://gd.games/games/8415d1db-4ef9-4283-8008-69eb4bb6c4e8)
 
+*How To Compile*
+* Download the current version of [Gdevelop](https://gdevelop.io/download)
+* Download and unzip this source folder
+* Open VacuumnMarauders.json in gdevelop
